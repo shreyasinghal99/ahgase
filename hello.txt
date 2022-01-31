@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 this is hello in func
-=======
 githis is hello in func
->>>>>>> hotfix
